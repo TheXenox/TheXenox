@@ -1,6 +1,6 @@
 ### Hiya!
 <br>
 <br>
-**Socials**
-Tech Zone: XenoxOfficial
+<strong>Socials</strong> <br>
+Tech Zone: XenoxOfficial <br>
 Github: TheXenox
